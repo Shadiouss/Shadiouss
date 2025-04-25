@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shadiouss&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shadiouss&theme=blue-green)](https://git.io/streak-stats)
+[![GitHub Streak]([https://streak-stats.demolab.com/?user=Shadiouss&theme=blue-green](https://streak-stats.demolab.com/?user=Shadiouss&theme=blue-green))](https://git.io/streak-stats)
 
 
 <!--
