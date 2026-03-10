@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 
 ## 🏆 GitHub Trophies
 
-[View trophies](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://YOUR-DOMAIN/?username=Shadiouss&theme=gruvbox&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
