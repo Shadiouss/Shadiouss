@@ -5,13 +5,6 @@ Welcome to my GitHub profile!
 ## 📊 GitHub Stats
 ![Shadiouss's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shadiouss&show_icons=true&theme=blue-green)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://YOUR-DOMAIN/?username=Shadiouss&theme=gruvbox&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
 <!--
 **Shadiouss/Shadiouss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
