@@ -6,7 +6,8 @@ Welcome to my GitHub profile!
 ![Shadiouss's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shadiouss&show_icons=true&theme=blue-green)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=Shadiouss&theme=gruvbox&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+[View trophies](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
